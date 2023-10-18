@@ -1,0 +1,16 @@
+.light-theme{
+    display: flex;
+    margin-top: 20px;
+}
+.dark-theme{
+    display: flex;
+    margin-top: 20px;
+    background-color: #141414;
+}
+.light-theme h6,.dark-theme h6{
+    font-weight: 400;
+    margin-right: 30px;
+}
+.switch{
+    margin-top: -2px;
+}

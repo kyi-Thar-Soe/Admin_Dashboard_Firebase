@@ -1,0 +1,49 @@
+.box{
+    height: 100vh;
+}
+.credit-icon,.order-icon{
+    margin-top: 5px;
+}
+.earning,.order{
+    display: flex;
+    flex-direction: column;
+}
+.earning-price,.order-price{
+    font-size: 20px;
+    font-weight: 700;
+    margin-bottom: 10px;
+}
+.income-div{
+    display: flex;
+    margin-top: -5px;
+}
+.income{
+    display: flex;
+    flex-direction: column;
+    margin-left: 20px;
+}
+.shop-icon{
+    margin-top: 10px;
+}
+.income-price{
+    font-size: 15px;
+    font-weight: 700;
+}
+.income-title{
+    font-size: 12px;
+    margin-top: 3px;
+}
+.gradient{
+    background: #2F80ED;  /* fallback for old browsers */
+    background: -webkit-linear-gradient(to right, #2F80ED, #56CCF2); 
+    background: linear-gradient(to right, #2F80ED, #56CCF2); 
+}
+.lightgradient{
+    background: #007991; 
+    background: -webkit-linear-gradient(to right, #78ffd6, #007991); 
+    background: linear-gradient(to left, #78ffd6, #007991); 
+
+}
+.popular-products{
+    margin-bottom: 10px;
+}
